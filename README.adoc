@@ -2,6 +2,13 @@
 :version 8.0:
 :downloads https://arc42.org/downloads/:
 
+== Important note!
+This works exists only for preserving Russian template from the complete removal. Original author for some reason decided to delete Russian version. I think Russian version for so useful should exist and could be helpful for any russian-speaking person.
+
+I do not think that this repo will be well-maintained in the future (regular syncs with the upstream, etc) but at least Russian template will be preserved here. Feel free to fork, send fixes and other useful stuff - I will try to review and merge them. Thanks in advance!
+
+== General information
+
 arc42 - the template for effective, practical and pragmatic software architecture
 documentation and communication.
 
@@ -25,7 +32,7 @@ In case you find issues within the template or its explanations, this is the rep
 == Downloads
 
 Please refer to the https://arc42.org/download[official download page] for
-all downloads.
+all downloads. Russian translation is not available.
 
 == Languages
 
